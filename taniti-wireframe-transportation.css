@@ -1,0 +1,640 @@
+/* screen - taniti-wireframe-transportation */
+
+.taniti-wireframe-transportation {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3579px;
+  overflow: hidden;
+  width: 1680px;
+}
+
+.taniti-wireframe-transportation .navbar {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  padding: 0 28px;
+  width: 1685px;
+}
+
+.taniti-wireframe-transportation .navbar-link-place {
+  cursor: pointer;
+  margin-left: 918px;
+  width: 47px;
+}
+
+.taniti-wireframe-transportation .navbar-link-food-dining {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  margin-left: 17px;
+  margin-top: 1.0px;
+  text-align: center;
+  width: 106px;
+}
+
+.taniti-wireframe-transportation .navbar-link-lodging {
+  cursor: pointer;
+  margin-left: 18px;
+  width: 63px;
+}
+
+.taniti-wireframe-transportation .navbar-link-entertainment {
+  cursor: pointer;
+  margin-left: 17px;
+  width: 111px;
+}
+
+.taniti-wireframe-transportation .navbar-link-transportation {
+  color: #909c81;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  margin-left: 17px;
+  width: 110px;
+}
+
+.taniti-wireframe-transportation .navbar-link-faq {
+  cursor: pointer;
+  margin-left: 18px;
+  width: 33px;
+}
+
+.taniti-wireframe-transportation .overlap-group6 {
+  height: 1330px;
+  position: relative;
+  width: 1680px;
+}
+
+.taniti-wireframe-transportation .about {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 58px;
+  height: 740px;
+  left: 0;
+  padding: 20px 80px;
+  position: absolute;
+  top: 590px;
+  width: 1680px;
+}
+
+.taniti-wireframe-transportation .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.0px;
+  min-height: 294px;
+  width: 702px;
+}
+
+.taniti-wireframe-transportation .traveling-to-the-island {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-transportation .almost-all-visitors {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 24px;
+  min-height: 154px;
+  width: 702px;
+}
+
+.taniti-wireframe-transportation .button-1 {
+  background-color: var(--battleship-gray);
+  height: 40px;
+  margin-top: 40px;
+  min-width: 232px;
+  padding: 10px 16.7px;
+}
+
+.taniti-wireframe-transportation .learn-more-1 {
+  min-width: 198px;
+}
+
+.taniti-wireframe-transportation .rectangle-43 {
+  align-self: flex-end;
+  height: 643px;
+  object-fit: cover;
+  width: 760px;
+}
+
+.taniti-wireframe-transportation .sub-page-hero-e {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 600px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1680px;
+}
+
+.taniti-wireframe-transportation .overlap-group5 {
+  background-image: url(../img/rectangle-13.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 606px;
+  margin-bottom: -6px;
+  position: relative;
+  width: 1680px;
+}
+
+.taniti-wireframe-transportation .rectangle-42 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #ffffff6b;
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 213px;
+  width: 648px;
+}
+
+.taniti-wireframe-transportation .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 71px;
+  line-height: 72px;
+  position: absolute;
+  top: 230px;
+  width: 686px;
+}
+
+.taniti-wireframe-transportation .island-transportation {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 1148px;
+  overflow: hidden;
+  width: 1680px;
+}
+
+.taniti-wireframe-transportation .overlap-group4 {
+  background-image: url(../img/rectangle-12.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1182px;
+  margin-bottom: -31px;
+  position: relative;
+  width: 1680px;
+}
+
+.taniti-wireframe-transportation .rectangle-45 {
+  background-color: #ffffff8f;
+  height: 1148px;
+  left: 50px;
+  position: absolute;
+  top: 3px;
+  width: 1564px;
+}
+
+.taniti-wireframe-transportation .island-ground-transportation {
+  left: 493px;
+  letter-spacing: -0.72px;
+  line-height: 72px;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: 750px;
+}
+
+.taniti-wireframe-transportation .public-bus {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 80px;
+  min-height: 222px;
+  position: absolute;
+  top: 240px;
+  width: 690px;
+}
+
+.taniti-wireframe-transportation .public-bus-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-transportation .the-public-bus-serve {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 24px;
+  min-height: 90px;
+  width: 686px;
+}
+
+.taniti-wireframe-transportation .button-2 {
+  background-color: var(--pablo);
+  height: 40px;
+  justify-content: flex-end;
+  margin-top: 32px;
+  min-width: 130px;
+  padding: 10px 31px;
+}
+
+.taniti-wireframe-transportation .learn-more-2 {
+  min-width: 67px;
+}
+
+.taniti-wireframe-transportation .private-bus {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 914px;
+  min-height: 222px;
+  position: absolute;
+  top: 240px;
+  width: 690px;
+}
+
+.taniti-wireframe-transportation .private-bus-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-transportation .renting-a-private-bu {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 24px;
+  min-height: 90px;
+  width: 686px;
+}
+
+.taniti-wireframe-transportation .button {
+  align-items: flex-start;
+  background-color: var(--pablo);
+  border-radius: 6px;
+  display: flex;
+  height: 40px;
+  margin-top: 32px;
+  min-width: 130px;
+  padding: 10px 35px;
+}
+
+.taniti-wireframe-transportation .learn-more {
+  height: 18px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-transportation .taxi {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 80px;
+  min-height: 222px;
+  position: absolute;
+  top: 522px;
+  width: 690px;
+}
+
+.taniti-wireframe-transportation .taxis-are-available {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 24px;
+  min-height: 90px;
+  width: 686px;
+}
+
+.taniti-wireframe-transportation .rental-car {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 914px;
+  min-height: 222px;
+  position: absolute;
+  top: 522px;
+  width: 690px;
+}
+
+.taniti-wireframe-transportation .rental-car-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-transportation .rental-cars-are-avai {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 24px;
+  min-height: 90px;
+  width: 686px;
+}
+
+.taniti-wireframe-transportation .bike-helmet-rental {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 80px;
+  min-height: 222px;
+  position: absolute;
+  top: 804px;
+  width: 690px;
+}
+
+.taniti-wireframe-transportation .bike-helmet-rental-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-transportation .bikes-and-helmts-are {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 24px;
+  min-height: 90px;
+  width: 686px;
+}
+
+.taniti-wireframe-transportation .walking {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 914px;
+  min-height: 222px;
+  position: absolute;
+  top: 804px;
+  width: 690px;
+}
+
+.taniti-wireframe-transportation .walking-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-transportation .taniti-city-is-fairl {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 24px;
+  min-height: 90px;
+  width: 686px;
+}
+
+.taniti-wireframe-transportation .button-3 {
+  background-color: var(--pablo);
+  height: 40px;
+  margin-top: 32px;
+  min-width: 130px;
+  padding: 10px 22px;
+}
+
+.taniti-wireframe-transportation .book-more-nav {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 798px;
+  margin-top: 31px;
+  padding: 13px 0;
+  width: 1652px;
+}
+
+.taniti-wireframe-transportation .flex-col-1 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  margin-left: 31px;
+  min-height: 736px;
+  width: 1436px;
+}
+
+.taniti-wireframe-transportation .overlap-group3 {
+  height: 677px;
+  position: relative;
+  width: 1436px;
+}
+
+.taniti-wireframe-transportation .overlap-group {
+  align-items: center;
+  background-color: var(--white-rock);
+  border: 1px solid;
+  border-color: var(--black-3);
+  display: flex;
+  flex-direction: column;
+  left: 1007px;
+  min-height: 560px;
+  position: absolute;
+  top: 117px;
+  width: 429px;
+}
+
+.taniti-wireframe-transportation .rectangle {
+  cursor: pointer;
+  height: 275px;
+  margin-right: 1.0px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 428px;
+}
+
+.taniti-wireframe-transportation .button-4 {
+  background-color: var(--battleship-gray);
+  cursor: pointer;
+  height: 52px;
+  margin-right: 113.0px;
+  margin-top: 23px;
+  min-width: 192px;
+  padding: 14.3px 60.2px;
+}
+
+.taniti-wireframe-transportation .join-today {
+  height: 21px;
+  letter-spacing: -0.26px;
+  line-height: normal;
+  min-width: 71px;
+  text-align: center;
+}
+
+.taniti-wireframe-transportation .overlap-group1 {
+  align-items: center;
+  background-color: var(--white-rock);
+  border: 1px solid;
+  border-color: var(--black-3);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 560px;
+  position: absolute;
+  top: 117px;
+  width: 429px;
+}
+
+.taniti-wireframe-transportation .button-5 {
+  background-color: var(--battleship-gray);
+  cursor: pointer;
+  height: 52px;
+  margin-right: 113.0px;
+  margin-top: 23px;
+  min-width: 192px;
+  padding: 14.3px 45.2px;
+}
+
+.taniti-wireframe-transportation .join-today-1 {
+  min-width: 101px;
+}
+
+.taniti-wireframe-transportation .overlap-group2 {
+  align-items: center;
+  background-color: var(--white-rock);
+  border: 1px solid;
+  border-color: var(--black-3);
+  display: flex;
+  flex-direction: column;
+  left: 504px;
+  min-height: 560px;
+  position: absolute;
+  top: 117px;
+  width: 429px;
+}
+
+.taniti-wireframe-transportation .find-entertainment {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  margin-right: 4.0px;
+  margin-top: 39px;
+  white-space: nowrap;
+  width: 301px;
+}
+
+.taniti-wireframe-transportation .button-6 {
+  background-color: var(--battleship-gray);
+  cursor: pointer;
+  height: 52px;
+  margin-right: 113.0px;
+  margin-top: 23px;
+  min-width: 192px;
+  padding: 14.3px 33.2px;
+}
+
+.taniti-wireframe-transportation .join-today-2 {
+  min-width: 125px;
+}
+
+.taniti-wireframe-transportation .ellipse-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  margin-right: 46.0px;
+  min-width: 66px;
+}
+
+.taniti-wireframe-transportation .image-1 {
+  margin-left: 16px;
+}
+
+.taniti-wireframe-transportation .footer-b {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 183px;
+  margin-right: -3px;
+  margin-top: 19px;
+  padding: 23px 42px;
+  width: 1680px;
+}
+
+.taniti-wireframe-transportation .food-dining {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 444px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.taniti-wireframe-transportation .lodging {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 36px;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.taniti-wireframe-transportation .entertainment {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 36px;
+  min-height: 23px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.taniti-wireframe-transportation .transportation {
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 8px;
+  margin-left: 37px;
+  min-height: 30px;
+  width: 117px;
+}
+
+.taniti-wireframe-transportation .faq {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 22px;
+  margin-left: 35px;
+  min-height: 17px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.taniti-wireframe-transportation .button-7 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+}
+
+.taniti-wireframe-transportation .join-today-3 {
+  height: 21px;
+  letter-spacing: -0.26px;
+  line-height: normal;
+  text-align: center;
+}
+
+.taniti-wireframe-transportation .learn-more-4 {
+  height: 18px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-transportation .navbar-link {
+  height: 19px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  margin-top: 1.0px;
+  text-align: center;
+}

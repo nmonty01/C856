@@ -1,0 +1,788 @@
+/* screen - taniti-wireframe-home */
+
+.taniti-wireframe-home {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 4950px;
+  overflow: hidden;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .navbar {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  margin-left: -5px;
+  padding: 0 28px;
+  width: 1685px;
+}
+
+.taniti-wireframe-home .navbar-link-place {
+  margin-left: 918px;
+  width: 47px;
+}
+
+.taniti-wireframe-home .navbar-link-food-dining {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  margin-left: 17px;
+  margin-top: 1.0px;
+  text-align: center;
+  width: 106px;
+}
+
+.taniti-wireframe-home .navbar-link-lodging {
+  cursor: pointer;
+  margin-left: 18px;
+  width: 63px;
+}
+
+.taniti-wireframe-home .navbar-link-entertainment {
+  cursor: pointer;
+  margin-left: 17px;
+  width: 111px;
+}
+
+.taniti-wireframe-home .navbar-link-transportation {
+  cursor: pointer;
+  margin-left: 17px;
+  width: 110px;
+}
+
+.taniti-wireframe-home .navbar-link-faq {
+  cursor: pointer;
+  margin-left: 18px;
+  width: 33px;
+}
+
+.taniti-wireframe-home .hero-home-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 960px;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-12.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  min-height: 960px;
+  padding: 355px 87px;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .the-largest-communit {
+  align-items: flex-start;
+  display: flex;
+  height: 160px;
+  min-width: 686px;
+}
+
+.taniti-wireframe-home .the-largest-communit-1 {
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: -0.84px;
+  line-height: 80px;
+  margin-top: -1px;
+  min-height: 160px;
+  width: 686px;
+}
+
+.taniti-wireframe-home .span0 {
+  color: var(--white);
+  font-weight: 700;
+}
+
+.taniti-wireframe-home .span1 {
+  color: #d3d0b1;
+}
+
+.taniti-wireframe-home .button {
+  align-items: flex-start;
+  background-color: var(--battleship-gray);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+  min-width: 325px;
+  padding: 18.0px 20px;
+}
+
+.taniti-wireframe-home .join-today-1 {
+  min-width: 284px;
+}
+
+.taniti-wireframe-home .about {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 60px;
+  height: 600px;
+  padding: 78px 80px;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .flex-col {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15.0px;
+  min-height: 305px;
+  width: 711px;
+}
+
+.taniti-wireframe-home .about-the-island {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.taniti-wireframe-home .taniti-is-a-small-t {
+  color: var(--battleship-gray);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 12px;
+  min-height: 187px;
+  width: 711px;
+}
+
+.taniti-wireframe-home .button-1 {
+  background-color: var(--battleship-gray);
+  margin-top: 18px;
+  padding: 14.3px 47.2px;
+}
+
+.taniti-wireframe-home .join-today {
+  height: 21px;
+  letter-spacing: -0.26px;
+  line-height: normal;
+  min-width: 96px;
+  text-align: center;
+}
+
+.taniti-wireframe-home .rectangle-13 {
+  height: 442px;
+  object-fit: cover;
+  width: 749px;
+}
+
+.taniti-wireframe-home .food {
+  align-items: flex-start;
+  background-color: var(--sisal);
+  display: flex;
+  margin-top: 30px;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .overlap-group4 {
+  background-image: url(../img/tropicalleafwhite-1-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 894px;
+  position: relative;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .food-dining {
+  left: 446px;
+  letter-spacing: -0.72px;
+  line-height: 72px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: 750px;
+}
+
+.taniti-wireframe-home .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-3);
+  display: flex;
+  flex-direction: column;
+  left: 81px;
+  min-height: 655px;
+  position: absolute;
+  top: 130px;
+  width: 686px;
+}
+
+.taniti-wireframe-home .restaurant-img {
+  cursor: pointer;
+  height: 402px;
+  margin-right: 2.0px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 686px;
+}
+
+.taniti-wireframe-home .restaurants {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  margin-right: 2.0px;
+  margin-top: 31px;
+  white-space: nowrap;
+  width: 558px;
+}
+
+.taniti-wireframe-home .taniti-currently-has {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-right: 2.0px;
+  margin-top: 8px;
+  min-height: 91px;
+  width: 558px;
+}
+
+.taniti-wireframe-home .button-2 {
+  align-self: flex-start;
+  background-color: var(--pablo);
+  margin-left: 63px;
+  margin-top: 12px;
+  padding: 14.3px 47.2px;
+}
+
+.taniti-wireframe-home .rectangle-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-3);
+  height: 655px;
+  left: 851px;
+  position: absolute;
+  top: 130px;
+  width: 686px;
+}
+
+.taniti-wireframe-home .grocery {
+  cursor: pointer;
+  height: 402px;
+  left: 851px;
+  object-fit: cover;
+  position: absolute;
+  top: 128px;
+  width: 686px;
+}
+
+.taniti-wireframe-home .grocery-stores {
+  color: var(--black);
+  font-weight: 700;
+  left: 915px;
+  line-height: 36px;
+  position: absolute;
+  top: 562px;
+  white-space: nowrap;
+  width: 558px;
+}
+
+.taniti-wireframe-home .taniti-has-two-super {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 915px;
+  line-height: 30px;
+  position: absolute;
+  top: 608px;
+  width: 558px;
+}
+
+.taniti-wireframe-home .button-3 {
+  background-color: var(--pablo);
+  left: 915px;
+  padding: 14.3px 47.2px;
+  position: absolute;
+  top: 710px;
+}
+
+.taniti-wireframe-home .overlap-group6 {
+  height: 867px;
+  margin-top: 15px;
+  position: relative;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .hotel-driving {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 706px;
+  left: 0;
+  padding: 58px 98px;
+  position: absolute;
+  top: 161px;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .overlap-group-1 {
+  height: 561px;
+  position: relative;
+  width: 429px;
+}
+
+.taniti-wireframe-home .rectangle-2 {
+  background-color: #e8e7d9;
+  border: 1px solid;
+  border-color: var(--black-3);
+  height: 560px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 429px;
+}
+
+.taniti-wireframe-home .rectangle-16 {
+  cursor: pointer;
+  height: 276px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.taniti-wireframe-home .lodging {
+  color: var(--black);
+  font-weight: 700;
+  left: 64px;
+  line-height: 36px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+  width: 301px;
+}
+
+.taniti-wireframe-home .taniti-has-a-wide-va {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 64px;
+  line-height: 30px;
+  position: absolute;
+  top: 356px;
+  width: 301px;
+}
+
+.taniti-wireframe-home .button-4 {
+  background-color: var(--battleship-gray);
+  left: 64px;
+  padding: 14.3px 12.2px;
+  position: absolute;
+  top: 481px;
+}
+
+.taniti-wireframe-home .join-today-2 {
+  min-width: 167px;
+}
+
+.taniti-wireframe-home .overlap-group3 {
+  height: 562px;
+  margin-left: 70px;
+  position: relative;
+  width: 429px;
+}
+
+.taniti-wireframe-home .rectangle {
+  background-color: var(--white-rock);
+  border: 1px solid;
+  border-color: var(--black-3);
+  height: 560px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 429px;
+}
+
+.taniti-wireframe-home .plane {
+  cursor: pointer;
+  height: 277px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.taniti-wireframe-home .transportation-to-taniti {
+  color: var(--black);
+  font-weight: 700;
+  left: 64px;
+  line-height: 36px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+  width: 301px;
+}
+
+.taniti-wireframe-home .learn-more-about-the {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 64px;
+  line-height: 30px;
+  position: absolute;
+  top: 356px;
+  width: 301px;
+}
+
+.taniti-wireframe-home .button-5 {
+  background-color: var(--battleship-gray);
+  left: 64px;
+  padding: 14.3px 47.2px;
+  position: absolute;
+  top: 482px;
+}
+
+.taniti-wireframe-home .overlap-group2 {
+  height: 562px;
+  margin-left: 83px;
+  position: relative;
+  width: 429px;
+}
+
+.taniti-wireframe-home .rectangle-14 {
+  cursor: pointer;
+  height: 277px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.taniti-wireframe-home .island-transportation {
+  color: var(--black);
+  font-weight: 700;
+  left: 64px;
+  line-height: 36px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+  width: 301px;
+}
+
+.taniti-wireframe-home .there-are-a-variety {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 64px;
+  line-height: 30px;
+  position: absolute;
+  top: 356px;
+  width: 311px;
+}
+
+.taniti-wireframe-home .button-6 {
+  background-color: var(--battleship-gray);
+  left: 64px;
+  padding: 14.3px 9.2px;
+  position: absolute;
+  top: 482px;
+}
+
+.taniti-wireframe-home .join-today-3 {
+  min-width: 173px;
+}
+
+.taniti-wireframe-home .taniti-has-a-variety {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 145px;
+  line-height: 50px;
+  position: absolute;
+  top: 94px;
+  width: 1392px;
+}
+
+.taniti-wireframe-home .lodging-transportation {
+  left: 446px;
+  letter-spacing: -0.72px;
+  line-height: 72px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 750px;
+}
+
+.taniti-wireframe-home .entertainment {
+  align-items: flex-start;
+  background-color: var(--sisal);
+  display: flex;
+  margin-top: 71px;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .overlap-group1 {
+  background-image: url(../img/tropicalleafwhite-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 924px;
+  position: relative;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .entertainment-sightseeing {
+  left: 457px;
+  letter-spacing: -0.72px;
+  line-height: 72px;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  width: 750px;
+}
+
+.taniti-wireframe-home .overlap-group-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-3);
+  display: flex;
+  flex-direction: column;
+  left: 104px;
+  min-height: 655px;
+  position: absolute;
+  top: 182px;
+  width: 686px;
+}
+
+.taniti-wireframe-home .rectangle-18 {
+  cursor: pointer;
+  height: 396px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 684px;
+}
+
+.taniti-wireframe-home .entertainment-1 {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  margin-right: 2.0px;
+  margin-top: 40px;
+  white-space: nowrap;
+  width: 558px;
+}
+
+.taniti-wireframe-home .even-though-most-vis {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-left: 11.0px;
+  margin-top: 5px;
+  min-height: 86px;
+  width: 571px;
+}
+
+.taniti-wireframe-home .button-7 {
+  align-self: flex-start;
+  background-color: var(--pablo);
+  margin-left: 63px;
+  margin-top: 16px;
+  padding: 14.3px 33.2px;
+}
+
+.taniti-wireframe-home .join-today-4 {
+  min-width: 125px;
+}
+
+.taniti-wireframe-home .rectangle-3 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-3);
+  height: 655px;
+  left: 874px;
+  position: absolute;
+  top: 182px;
+  width: 686px;
+}
+
+.taniti-wireframe-home .rectangle-17 {
+  cursor: pointer;
+  height: 398px;
+  left: 875px;
+  object-fit: cover;
+  position: absolute;
+  top: 183px;
+  width: 684px;
+}
+
+.taniti-wireframe-home .sightseeing {
+  color: var(--black);
+  font-weight: 700;
+  left: 938px;
+  line-height: 36px;
+  position: absolute;
+  top: 618px;
+  white-space: nowrap;
+  width: 558px;
+}
+
+.taniti-wireframe-home .learn-about-the-vari {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 938px;
+  line-height: 30px;
+  position: absolute;
+  top: 664px;
+  width: 558px;
+}
+
+.taniti-wireframe-home .button-8 {
+  background-color: var(--pablo);
+  border: 1px solid;
+  border-color: var(--black);
+  left: 938px;
+  padding: 13.3px 44.2px;
+  position: absolute;
+  top: 762px;
+}
+
+.taniti-wireframe-home .join-today-5 {
+  min-width: 101px;
+}
+
+.taniti-wireframe-home .faq {
+  align-items: flex-end;
+  background-color: #f5f5f5;
+  display: flex;
+  height: 340px;
+  overflow: hidden;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-12.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 321px;
+  height: 702px;
+  margin-bottom: -326px;
+  min-width: 1680px;
+  padding: 155px 80px;
+}
+
+.taniti-wireframe-home .want-to-learn-more-a {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 50px;
+  min-height: 100px;
+  width: 943px;
+}
+
+.taniti-wireframe-home .button-9 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--pablo);
+  margin-top: 25px;
+  padding: 12.3px 52.2px;
+}
+
+.taniti-wireframe-home .contact-us {
+  -webkit-text-stroke: 1px var(--black);
+  color: var(--pablo);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 21px;
+  letter-spacing: -0.26px;
+  line-height: normal;
+  min-width: 82px;
+  text-align: center;
+}
+
+.taniti-wireframe-home .footer-b {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 175px;
+  margin-top: 4px;
+  padding: 15px 42px;
+  width: 1680px;
+}
+
+.taniti-wireframe-home .food-dining-1 {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 444px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.taniti-wireframe-home .lodging-1 {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 36px;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.taniti-wireframe-home .entertainment-2 {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 36px;
+  min-height: 23px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.taniti-wireframe-home .transportation {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 8px;
+  margin-left: 37px;
+  min-height: 30px;
+  width: 117px;
+}
+
+.taniti-wireframe-home .faq-1 {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 22px;
+  margin-left: 35px;
+  min-height: 17px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.taniti-wireframe-home .button-10 {
+  align-items: flex-start;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  min-width: 192px;
+}
+
+.taniti-wireframe-home .join-today-6 {
+  height: 21px;
+  letter-spacing: -0.26px;
+  line-height: normal;
+  text-align: center;
+}
+
+.taniti-wireframe-home .navbar-link {
+  height: 19px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  margin-top: 1.0px;
+  text-align: center;
+}

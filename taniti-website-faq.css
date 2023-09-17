@@ -1,0 +1,443 @@
+/* screen - taniti-website-faq */
+
+.taniti-website-faq {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3247px;
+  overflow: hidden;
+  width: 1680px;
+}
+
+.taniti-website-faq .navbar {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  margin-left: 5.0px;
+  margin-top: 15px;
+  padding: 0 28px;
+  width: 1685px;
+}
+
+.taniti-website-faq .navbar-link-place {
+  cursor: pointer;
+  margin-left: 918px;
+  width: 47px;
+}
+
+.taniti-website-faq .navbar-link-food-dining {
+  cursor: pointer;
+  height: 19px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  margin-left: 17px;
+  margin-top: 1.0px;
+  text-align: center;
+  width: 106px;
+}
+
+.taniti-website-faq .navbar-link-lodging {
+  cursor: pointer;
+  margin-left: 18px;
+  width: 63px;
+}
+
+.taniti-website-faq .navbar-link-entertainment {
+  cursor: pointer;
+  margin-left: 17px;
+  width: 111px;
+}
+
+.taniti-website-faq .navbar-link-transportation {
+  cursor: pointer;
+  margin-left: 17px;
+  width: 110px;
+}
+
+.taniti-website-faq .navbar-link-faq {
+  color: #a4ae99;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  margin-left: 18px;
+  width: 33px;
+}
+
+.taniti-website-faq .sub-page-hero-e {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  margin-top: 12px;
+  padding: 0 1px;
+  width: 1686px;
+}
+
+.taniti-website-faq .overlap-group4 {
+  background-image: url(../img/rectangle-46.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 600px;
+  position: relative;
+  width: 1683px;
+}
+
+.taniti-website-faq .rectangle-47 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: #ffffff8f;
+  height: 96px;
+  left: 2px;
+  position: absolute;
+  top: 215px;
+  width: 288px;
+}
+
+.taniti-website-faq .fa-qs {
+  color: var(--black);
+  font-weight: 400;
+  left: 79px;
+  line-height: 72px;
+  position: absolute;
+  top: 227px;
+  width: 688px;
+}
+
+.taniti-website-faq .title {
+  letter-spacing: -0.72px;
+  line-height: 72px;
+  margin-left: 3.0px;
+  margin-top: 20px;
+  min-height: 74px;
+  text-align: center;
+  white-space: nowrap;
+  width: 747px;
+}
+
+.taniti-website-faq .flex-row {
+  gap: 38px;
+  margin-left: 45.0px;
+  margin-top: 185px;
+  min-width: 1545px;
+}
+
+.taniti-website-faq .overlap-group5 {
+  height: 1139px;
+  position: relative;
+  width: 763px;
+}
+
+.taniti-website-faq .answers {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 91px;
+  left: 0;
+  min-height: 1086px;
+  position: absolute;
+  top: 53px;
+  width: 763px;
+}
+
+.taniti-website-faq .answers-item {
+  letter-spacing: -0.36px;
+  line-height: 24px;
+  min-height: 48px;
+  width: 738px;
+}
+
+.taniti-website-faq .violent-crime-is-ver {
+  letter-spacing: -0.36px;
+  line-height: 24px;
+  min-height: 52px;
+  width: 747px;
+}
+
+.taniti-website-faq .taniti-enjoys-a-larg {
+  letter-spacing: -0.36px;
+  line-height: 24px;
+  min-height: 77px;
+  width: 747px;
+}
+
+.taniti-website-faq .taniti-uses-the-us {
+  letter-spacing: -0.36px;
+  line-height: 24px;
+  min-height: 80px;
+  width: 747px;
+}
+
+.taniti-website-faq .questions {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 108px;
+  left: 0;
+  min-height: 1029px;
+  position: absolute;
+  top: 0;
+  width: 729px;
+}
+
+.taniti-website-faq .questions-item {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  min-height: 34px;
+  width: 587px;
+}
+
+.taniti-website-faq .are-there-regulation {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  min-height: 35px;
+  width: 713px;
+}
+
+.taniti-website-faq .rectangle-48 {
+  height: 858px;
+  margin-bottom: 61.0px;
+  object-fit: cover;
+  width: 744px;
+}
+
+.taniti-website-faq .overlap-group6 {
+  height: 948px;
+  margin-right: 1.0px;
+  margin-top: 184px;
+  position: relative;
+  width: 1681px;
+}
+
+.taniti-website-faq .footer-b {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 183px;
+  left: 0;
+  padding: 23px 42px;
+  position: absolute;
+  top: 765px;
+  width: 1680px;
+}
+
+.taniti-website-faq .food-dining {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 444px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.taniti-website-faq .lodging {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 36px;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.taniti-website-faq .entertainment {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 15px;
+  margin-left: 36px;
+  min-height: 23px;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.taniti-website-faq .transportation {
+  cursor: pointer;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 8px;
+  margin-left: 37px;
+  min-height: 30px;
+  width: 117px;
+}
+
+.taniti-website-faq .faq {
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  margin-bottom: 22px;
+  margin-left: 35px;
+  min-height: 17px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.taniti-website-faq .book-more-nav {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 798px;
+  left: 29px;
+  padding: 13px 0;
+  position: absolute;
+  top: 0;
+  width: 1652px;
+}
+
+.taniti-website-faq .flex-col {
+  align-self: flex-start;
+  flex-direction: column;
+  gap: 39px;
+  margin-left: 31px;
+  min-height: 736px;
+  width: 1436px;
+}
+
+.taniti-website-faq .overlap-group3 {
+  height: 677px;
+  position: relative;
+  width: 1436px;
+}
+
+.taniti-website-faq .overlap-group {
+  align-items: center;
+  background-color: var(--white-rock);
+  border: 1px solid;
+  border-color: var(--black-3);
+  display: flex;
+  flex-direction: column;
+  left: 1007px;
+  min-height: 560px;
+  position: absolute;
+  top: 117px;
+  width: 429px;
+}
+
+.taniti-website-faq .rectangle {
+  cursor: pointer;
+  height: 275px;
+  margin-right: 1.0px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 428px;
+}
+
+.taniti-website-faq .button {
+  align-items: flex-start;
+  background-color: var(--battleship-gray);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  margin-right: 113.0px;
+  margin-top: 23px;
+  min-width: 192px;
+  padding: 14.3px 60.2px;
+}
+
+.taniti-website-faq .join-today {
+  height: 21px;
+  letter-spacing: -0.26px;
+  line-height: normal;
+  min-width: 71px;
+  text-align: center;
+}
+
+.taniti-website-faq .overlap-group1 {
+  align-items: center;
+  background-color: var(--white-rock);
+  border: 1px solid;
+  border-color: var(--black-3);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 560px;
+  position: absolute;
+  top: 117px;
+  width: 429px;
+}
+
+.taniti-website-faq .button-1 {
+  padding: 14.3px 45.2px;
+}
+
+.taniti-website-faq .join-today-1 {
+  min-width: 101px;
+}
+
+.taniti-website-faq .overlap-group2 {
+  align-items: center;
+  background-color: var(--white-rock);
+  border: 1px solid;
+  border-color: var(--black-3);
+  display: flex;
+  flex-direction: column;
+  left: 504px;
+  min-height: 560px;
+  position: absolute;
+  top: 117px;
+  width: 429px;
+}
+
+.taniti-website-faq .find-entertainment {
+  color: var(--black);
+  font-weight: 700;
+  line-height: 36px;
+  margin-right: 4.0px;
+  margin-top: 39px;
+  white-space: nowrap;
+  width: 301px;
+}
+
+.taniti-website-faq .button-2 {
+  padding: 14.3px 33.2px;
+}
+
+.taniti-website-faq .join-today-2 {
+  min-width: 125px;
+}
+
+.taniti-website-faq .ellipse-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  margin-right: 46.0px;
+  min-width: 66px;
+}
+
+.taniti-website-faq .image-1 {
+  margin-left: 16px;
+}
+
+.taniti-website-faq .button-3 {
+  align-items: flex-start;
+  background-color: var(--battleship-gray);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  margin-right: 113.0px;
+  margin-top: 23px;
+  min-width: 192px;
+}
+
+.taniti-website-faq .flex {
+  align-items: center;
+  display: flex;
+}
+
+.taniti-website-faq .join-today-3 {
+  height: 21px;
+  letter-spacing: -0.26px;
+  line-height: normal;
+  text-align: center;
+}
+
+.taniti-website-faq .navbar-link {
+  height: 19px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  margin-top: 1.0px;
+  text-align: center;
+}
